@@ -36,6 +36,7 @@ export default function App() {
   return (
     <div className="app">
       <div className="sidebar">
+        <h2>TaskFlow</h2>
 
         <div className="menu">
           <div className="menuItem active">Dashboard</div>
